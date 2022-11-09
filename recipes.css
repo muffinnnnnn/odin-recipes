@@ -1,0 +1,32 @@
+header {
+    display: flex;
+    justify-content: center;
+    padding-top: 2em;
+    font-size: 20px;
+}
+
+img {
+    height: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.cake-container {
+    border: 10px dashed #FFAEBC;
+    display: flex;
+    justify-content: center;
+    gap: 5em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    background-color: #FBE7C6;
+    font-size: 18px;
+}
+
+#mo {
+    display: flex;
+    align-items: center;
+    border: 10px double #A49393;
+    flex-direction: column;
+    gap: 1px;
+    
+}
